@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">recycleRezeki</string>
+    <string name="ini_adalah_logo_mobil">Ini adalah logo mobil</string>
+    <string name="detail_logo">Detail Logo</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="dFerrari">Ferrari, sebuah merek mobil super mewah yang dikenal di seluruh dunia, memiliki akar yang kaya dari sejarah otomotif Italia. Didirikan oleh seorang pria bernama Enzo Ferrari, perusahaan ini telah menjadi simbol performa dan prestise di industri otomotif.</string>
+    <string name="HargaFerrari">Harga : Rp.1.500.000.000</string>
+    <string name="tipefr">Tipe :Ferrari memproduksi berbagai tipe mobil, termasuk Grand Tourers, Sports Cars, Track-focused Cars, Supercars, serta Special Editions dan One-Offs. Setiap tipe mobil tersebut menawarkan pengalaman berkendara yang berbeda, namun semuanya memiliki komitmen terhadap performa, inovasi, dan keahlian rekayasa Italia.</string>
+    <string name="BMW">BMW</string>
+    <string name="DBMW">
+Mobil BMW sering dianggap sebagai perpaduan antara gaya, kinerja, dan kemewahan. Berikut adalah deskripsi umum tentang mobil BMW:
+
+BMW dikenal karena desainnya yang elegan dan garis-garis yang tajam. Mobil-mobil BMW sering memiliki tampilan yang sporty dan agresif, dengan gril depan khas "double kidney" yang menjadi ciri khas merek ini. Lampu depan seringkali dilengkapi dengan teknologi canggih seperti LED atau bahkan lampu laser di model-model terbaru.</string>
+    <string name="hargabmw">Harga = Rp.1.400.000.000</string>
+    <string name="tipebmw">Tipe :BMW memproduksi berbagai tipe mobil, termasuk Sedans, Coupes, Convertibles, Sports Wagons, dan SUVs. Setiap tipe mobil tersebut menawarkan gaya berkendara yang berbeda, tetapi semua mencerminkan dedikasi BMW terhadap desain yang elegan, performa yang canggih, dan teknologi inovatif.</string>
+    <string name="koe">Koenigsegg</string>
+    <string name="hargakoe">Harga : Rp.2.455.000.000</string>
+    <string name="dkoe">Koenigsegg merupakan produsen mobil super dan hiper eksklusif yang berasal dari Swedia. Mobil-mobil Koenigsegg dikenal karena kecepatan dan teknologi canggihnya, serta desain yang futuristik dan aerodinamis. Setiap model Koenigsegg dihasilkan dalam jumlah terbatas dan sering kali disesuaikan sesuai dengan keinginan pelanggan. Keunggulan performa dan inovasi teknologi menjadikan Koenigsegg sebagai salah satu ikon di dunia otomotif yang paling dihormati.</string>
+    <string name="tipekoe">Tipe :Koenigsegg memproduksi berbagai tipe mobil, termasuk Hypercars dan Supercars. Setiap tipe mobil tersebut menawarkan tingkat performa yang luar biasa, inovasi teknologi yang canggih, dan desain yang mengagumkan.</string>
+    <string name="lotus">Lotus Renault</string>
+    <string name="hargalotus">Harga = Rp. 1.400.000.000</string>
+    <string name="dlotus">
+Lotus Renault adalah kolaborasi antara produsen mobil sport Inggris, Lotus Cars, dengan tim balap Formula 1 Renault. Lotus Renault telah berkompetisi di ajang balap Formula 1, menghadirkan mobil yang diisi dengan teknologi canggih dan kecepatan tinggi. Merek ini sering dikaitkan dengan sejarah sukses di dunia balap, menampilkan mobil-mobil yang ringan, gesit, dan andal di lintasan balap.</string>
+    <string name="tipelotus">Tipe : Lotus memproduksi berbagai tipe mobil, termasuk sports cars, roadsters, dan track-focused cars. Setiap tipe mobil tersebut menawarkan pengalaman berkendara yang berbeda, tetapi semuanya menonjolkan kinerja yang ringan dan responsif, serta keterlibatan pengemudi yang tinggi.</string>
+    <string name="maclaren">Maclaren</string>
+    <string name="hargamcl">Harga : Rp.3.500.000.000</string>
+    <string name="dmcl">McLaren adalah produsen mobil sport dan supercar asal Inggris yang terkenal akan keunggulan teknisnya dan kesuksesannya di dunia balap. Produk-produknya menampilkan desain yang futuristik dan performa yang luar biasa, mewakili keterampilan dan inovasi tingkat tinggi dalam industri otomotif.</string>
+    <string name="tipemcl">Tipe : McLaren memproduksi berbagai tipe mobil, termasuk supercars, hypercars, dan track-focused cars.</string>
+    <string name="mersi">Marcedes Benz</string>
+    <string name="hargamersi">Harga : Rp.1.300.000.000</string>
+    <string name="dmersi">Mersi atau Mercedes-Benz adalah produsen mobil mewah dan kendaraan komersial asal Jerman yang terkenal akan keunggulan teknis dan kenyamanannya. Produk-produknya mencakup berbagai jenis mobil, mulai dari sedan, SUV, coupe, hingga mobil sport. Mersi juga dikenal karena sejarah panjangnya dalam balapan dan inovasi dalam teknologi keselamatan kendaraan.</string>
+    <string name="tipemersi">Tipe : Mercedes-Benz memproduksi berbagai tipe mobil, termasuk sedans, SUVs, coupes, convertibles, dan sports cars.</string>
+    <string name="petro">Petronas</string>
+    <string name="hargapetro">Harga : Rp.2.000.000.000</string>
+    <string name="dpetro">Petronas adalah sebuah perusahaan minyak dan gas multinasional yang berbasis di Malaysia. Perusahaan ini terlibat dalam eksplorasi, produksi, pengilangan, dan perdagangan minyak serta gas. Selain itu, Petronas juga aktif dalam bidang-bidang lain seperti petrokimia, tenaga, dan sumber daya alam lainnya. Sebagai salah satu perusahaan terbesar di Malaysia dan memiliki operasi internasional yang luas, Petronas merupakan salah satu pemain kunci di industri minyak dan gas global.</string>
+    <string name="tipepetro">Tipe : Petronas memiliki berbagai tipe produk dan layanan, termasuk bahan bakar, pelumas, gas alam, petrokimia, dan energi terbarukan.</string>
+    <string name="redbuls">Red Bulls</string>
+    <string name="hargaredbuls">Harga : Rp.1.500.000.000</string>
+    <string name="dredbuls">Red Bull adalah merek minuman energi yang terkenal secara global yang diproduksi oleh perusahaan asal Austria, Red Bull GmbH. Selain minuman energi, Red Bull juga terlibat dalam berbagai kegiatan pemasaran olahraga dan acara budaya, seperti balap Formula 1, acara musik, dan olahraga ekstrem. Merek ini dikenal karena logo banteng merahnya dan kampanye pemasaran yang inovatif.</string>
+    <string name="tiperedbuls">Tipe : Red Bull memiliki berbagai tipe minuman energi, termasuk Red Bull Energy Drink, Red Bull Sugarfree, dan Red Bull Zero Calories.</string>
+    <string name="bugati">Bugatti</string>
+    <string name="hargabugati">Harga : Rp.3.400.000.000</string>
+    <string name="dbugati">Bugatti adalah produsen mobil mewah dan performa tinggi yang berbasis di Molsheim, Alsace, Prancis. Perusahaan ini terkenal karena memproduksi beberapa mobil paling eksklusif dan mahal di dunia. Mobil-mobil Bugatti, seperti Chiron dan Veyron, menawarkan kombinasi sempurna antara kecepatan, kemewahan, dan desain yang mengagumkan. Bugatti sering dianggap sebagai simbol status dan prestise di kalangan penggemar mobil super.</string>
+    <string name="tipebugati">Tipe : Bugatti memproduksi beberapa tipe mobil termasuk Chiron, Veyron, dan Divo.</string>
+    <string name="maserati">Maserati</string>
+    <string name="hargamaserati">Harga : Rp.3.500.000.000</string>
+    <string name="dmaserati">Maserati adalah produsen mobil mewah Italia yang terkenal dengan desain yang elegan dan performa yang kuat. Merek ini telah lama diakui karena mobil-mobilnya yang menawan dan teknologi yang canggih.</string>
+    <string name="tipemaserati">Tipe : Maserati memproduksi berbagai tipe mobil, termasuk sedans, SUVs, coupes, convertibles, dan sports cars.</string>
+    <string name="lambo">LamborGini</string>
+    <string name="hargalambo">Harga : Rp.2.300.000.000</string>
+    <string name="dlambo">Lamborghini adalah produsen mobil mewah dan supercar asal Italia yang terkenal akan desain yang agresif, performa yang kuat, dan teknologi canggih. Mobil-mobil Lamborghini sering dianggap sebagai simbol status dan kemewahan, menawarkan pengalaman berkendara yang mendebarkan dan prestise yang tinggi bagi para penggemar otomotif.</string>
+    <string name="tipelambo">Tipe :Lamborghini memproduksi berbagai tipe mobil, termasuk Aventador, Huracan, dan Urus.</string>
+    <string name="porsche">Porsche</string>
+    <string name="hargaporsche">Harga : Rp.1.350.000.000</string>
+    <string name="dporsche">Porsche adalah produsen mobil sport dan super mewah asal Jerman yang terkenal akan kualitas, kinerja, dan warisan balapnya. Merek ini dikenal karena model-model ikoniknya seperti Porsche 911 dan Porsche Cayenne, yang menawarkan kombinasi unik antara kecepatan, kenyamanan, dan teknologi canggih. Porsche telah menjadi salah satu pemimpin di pasar mobil performa tinggi selama beberapa dekade dan tetap menjadi favorit di kalangan penggemar otomotif di seluruh dunia.</string>
+    <string name="tipeporsche">Tipe : Porsche memproduksi berbagai tipe mobil, termasuk 911, Cayenne, Panamera, Macan, dan Taycan.</string>
+    <string name="peugeot">Peugeot</string>
+    <string name="hargapeu">Harga : Rp.500.000.000</string>
+    <string name="dpeu">Peugeot adalah produsen mobil asal Prancis yang terkenal akan desain inovatif, kinerja yang handal, dan fokus pada teknologi ramah lingkungan. Merek ini telah lama diakui atas mobil-mobilnya yang nyaman dan efisien dalam penggunaan bahan bakar, serta penawaran yang luas mulai dari hatchbacks hingga SUVs. Peugeot juga dikenal karena sejarah panjangnya dalam industri otomotif yang mencakup beberapa model ikonik.</string>
+    <string name="tipepeu">Tipe :Peugeot memproduksi berbagai tipe mobil, termasuk hatchbacks seperti 208 dan 308, SUVs seperti 2008 dan 3008, sedans seperti 508, dan MPVs seperti 5008.</string>
+    <string name="nissan">Nissan</string>
+    <string name="harganisan">Harga : Rp.700.000.000</string>
+    <string name="dnisan">Nissan adalah produsen mobil multinasional yang berbasis di Jepang yang dikenal karena berbagai macam kendaraan yang inovatif, dari mobil kecil hingga truk tangguh. Merek ini terkenal karena komitmennya terhadap kualitas, teknologi canggih, dan efisiensi bahan bakar. Nissan telah meraih popularitas global dengan model-model ikonik seperti Nissan Altima, Nissan Rogue, dan Nissan GT-R, serta perannya dalam memimpin industri mobil listrik dengan mobil seperti Nissan Leaf.</string>
+    <string name="tipenisan">Nissan memproduksi berbagai tipe mobil, termasuk sedan seperti Altima dan Maxima, SUV seperti Rogue dan Murano, crossover seperti Kicks dan Juke, truk seperti Frontier dan Titan, serta mobil listrik seperti Leaf.</string>
+    <string name="toyota">Toyota</string>
+    <string name="hargatoyota">Harga : Rp.600.000.000</string>
+    <string name="dtoyo">Toyota adalah produsen mobil multinasional asal Jepang yang dikenal karena kualitas, andalitas, dan inovasi dalam industri otomotif. Merek ini menawarkan berbagai macam kendaraan, mulai dari mobil penumpang hingga truk, SUVs, dan mobil listrik. Toyota juga dikenal karena memimpin dalam pengembangan teknologi hibrida dengan model-model seperti Prius. Dengan reputasi yang kuat untuk keandalan dan efisiensi, Toyota telah menjadi salah satu merek mobil terkemuka di dunia.</string>
+    <string name="tipetoyo">Toyota memproduksi berbagai tipe mobil, termasuk sedan seperti Camry dan Corolla, SUV seperti RAV4 dan Highlander, truk seperti Tacoma dan Tundra, serta mobil listrik seperti Prius dan Mirai.</string>
+
+
+
+
+
+    
+    
+    
+    <string name="title">title</string>
+    <string name="nama">Nama</string>
+    <string name="harga">harga</string>
+    <string name="desc">desc</string>
+    <string name="tipe">tipe</string>
+</resources>
